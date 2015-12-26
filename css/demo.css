@@ -1,0 +1,12 @@
+@import url('normalize.css');
+/* General Demo Style */
+body{
+	font-family: 'Open Sans Condensed','Arial Narrow', serif;
+	-webkit-font-smoothing: antialiased;
+	-moz-font-smoothing: antialiased;
+	font-smoothing: antialiased;
+	font-weight: 400;
+	font-size: 15px;
+	color: #333;
+	
+}
